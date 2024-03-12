@@ -1,21 +1,28 @@
 ---
-import Section from "../Section.astro"
-import HTML from "@/icons/html.astro"
-import CSS from "@/icons/css.astro"
-import JavaScript from "@/icons/javascript.astro"
-import TypeScript from "@/icons/type.astro"
-import React from "@/icons/react.astro"
-import Node from "@/icons/node.astro"
-import MySQL from "@/icons/sql.astro"
-import Git from "@/icons/git.astro"
-import GitHub from "@/icons/GitHub.astro"
-import Tailwind from "@/icons/tailwind.astro"
-import Next from "@/icons/next.astro"
-import { skills } from "@cv"
-import Swift from "@/icons/swift.astro"
-import SwiftUI from "@/icons/swiftui.astro"
-import Kotlin from "@/icons/kotlin.astro"
-import Flutter from "@/icons/flutter.astro"
+import Section from '../Section.astro';
+import HTML from '@/icons/html.astro';
+import CSS from '@/icons/css.astro';
+import JavaScript from '@/icons/javascript.astro';
+import TypeScript from '@/icons/type.astro';
+import React from '@/icons/react.astro';
+import Node from '@/icons/node.astro';
+import MySQL from '@/icons/sql.astro';
+import Git from '@/icons/git.astro';
+import GitHub from '@/icons/GitHub.astro';
+import Tailwind from '@/icons/tailwind.astro';
+import Next from '@/icons/next.astro';
+import { skills } from '@cv';
+import Swift from '@/icons/swift.astro';
+import SwiftUI from '@/icons/swiftui.astro';
+import Kotlin from '@/icons/kotlin.astro';
+import Flutter from '@/icons/flutter.astro';
+import AstroJS from '@/icons/astrojs.astro';
+import Mapbox from '@/icons/mapbox.astro';
+import ChartJS from '@/icons/chartjs.astro';
+import Cypress from '@/icons/cypress.astro';
+import Stripe from '@/icons/stripe.astro';
+import MongoDB from '@/icons/mongodb.astro';
+import AI from '@/icons/ai.astro';
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -33,21 +40,29 @@ const SKILLS_ICONS: Record<string, any> = {
   SwiftUI,
   Kotlin,
   Flutter,
-}
+  AstroJS,
+  Mapbox,
+  ChartJS,
+  Cypress,
+  Stripe,
+  MongoDB,
+  AI,
+};
 ---
 
-<Section title="Habilidades">
+<Section title='Skills'>
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
-        const Icon = SKILLS_ICONS[iconName]
+        const iconName =
+          name === 'Next.js' ? 'Next' : name === 'Astro' ? 'AstroJS' : name;
+        const Icon = SKILLS_ICONS[iconName];
 
         return (
           <li>
             {Icon && <Icon />} <span>{name}</span>
           </li>
-        )
+        );
       })
     }
   </ul>

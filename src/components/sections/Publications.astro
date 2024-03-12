@@ -1,31 +1,32 @@
 ---
 import Section from '../Section.astro';
 
-import { education } from '@cv';
+import { publications } from '@cv';
 ---
 
-<Section title='Educación'>
+<Section title='Publications'>
   <ul>
     {
-      education.map(({ institution, startDate, endDate, area }) => {
-        const startYear = new Date(startDate).getFullYear();
-        const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : 'Now';
-        const years = `${startYear} - ${endYear}`;
+      publications.map(({ name, releaseDate, summary, url }) => {
+        const releaseYear = new Date(releaseDate).getFullYear();
 
         return (
           <li>
             <article>
               <header>
                 <div>
-                  <h3>{institution}</h3>
+                  <h3>
+                    <a href={url} title={`Ver ${name}`} target='_blank'>
+                      {name}
+                    </a>
+                  </h3>
                 </div>
 
-                <time>{years}</time>
+                <time>{releaseYear}</time>
               </header>
 
               <footer>
-                <p>{area}</p>
+                <p>{summary}</p>
               </footer>
             </article>
           </li>
@@ -47,6 +48,19 @@ import { education } from '@cv';
     color: #111;
   }
 
+  article a {
+    color: #111;
+  }
+
+  article a:hover {
+    text-decoration: underline;
+  }
+
+  article h4 {
+    color: #222;
+    font-weight: 400;
+  }
+
   header {
     display: flex;
     justify-content: space-between;
@@ -58,6 +72,7 @@ import { education } from '@cv';
     color: #555;
     font-size: 0.85rem;
     min-width: 102px;
+    text-align: right;
   }
 
   @media (width <= 700px) {

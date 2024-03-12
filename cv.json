@@ -1,99 +1,112 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Óscar Bustos Garrido",
+    "label": "Frontend Developer with over 12 years of experience in Web Development.",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "oscarbustosgarrido@gmail.com",
+    "phone": "+34 649131791",
+    "url": "https://oscarbustos.dev",
+    "summary": "With over 12 years of experience as a Web Developer, I currently assist in creating web projects for various companies. I have worked in diverse environments, from accelerating start-up development to leading projects for multinational corporations. I have experience in defining architecture for long-term applications. I enjoy contributing value to design and product teams.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Principe de Asturias 6",
+      "postalCode": "24660",
+      "city": "León",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Spain"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "elchiconube",
+        "url": "https://x.com/elchiconube"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "elchiconube",
+        "url": "https://github.com/elchiconube"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Marketgoo",
+      "position": "Senior Frontend Developer",
+      "url": "https://marketgoo.com/",
+      "startDate": "2023-01-09",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "I was responsible for developing new projects for the company. I applied a component-based architecture with which I managed to reduce the development time, thus being able to launch new features quickly. I implemented a testing strategy to improve code quality and reduce errors in production. I supported the design and product team in the creation of new features.",
       "highlights": [
-        "Started the company"
+        "ReactJS", "Git", "GitHub", "CSS modules", "Cypress", "Astro"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "urbanData Analytics",
+      "position": "Lead Frontend Developer",
+      "url": "https://www.urbandataanalytics.com/",
+      "startDate": "2019-02-01",
+      "endDate": "2022-12-15",
+      "summary": "I led a refactor of the company's main product in record time while maintaining the previous one. We migrated from a monolithic architecture to a more flexible and optimized one that improved performance and user experience. I promoted good practices and performance improvements. I increased test coverage and code quality. I created an open-source component library for ReactJS that increased development speed and visual consistency of the application. I accompanied the design and product teams in the creation of new features. I mentored new developers.",
       "highlights": [
-        "Started the company"
+        "ReactJS", "Next.js", "StyledComponents", "Git", "GitHub", "Jest", "Cypress"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "BTS",
+      "position": "Full Stack Developer",
+      "startDate": "2015-03-01",
+      "endDate": "2019-05-01",
+      "summary": "I developed a knowledge management platform for the company. I implemented a REST API using Strapi to store the contents. I also created a web application to consume and manage the content. I learned to work in an international environment with teams distributed around the world. I improved the quality of the code and the speed of development. I learned to create a complete structure including frontend, backend, and deployment on AWS",
       "highlights": [
-        "Started the company"
+        "ReactJS", "Redux", "Git", "GitHub", "Strapi", "StyledComponents", "AWS"
+      ]
+    },
+    {
+      "name": "Axel Springer",
+      "position": "Frontend Developer",
+      "startDate": "2015-02-01",
+      "endDate": "2013-05-01",
+      "summary": "I developed websites for different brands within the group. The main sites had very high traffic, so there were high demands in terms of SEO and loading speed. I learned to work in a high-demand environment where advertising was the main source of revenue.",
+      "highlights": [
+        "Drupal", "HTML", "CSS", "Javascript", "Git", "GitHub"
+      ]
+    },
+    {
+      "name": "Vocento",
+      "position": "Frontend Developer",
+      "startDate": "2011-04-01",
+      "endDate": "2013-05-01",
+      "summary": "I developed various web applications for different brands within the group. I learned how to implement responsive designs in older browsers. I carried out webapp projects that were used to create applications on iOS and Android. I was awarded a prize for the design of one of the applications.",
+      "highlights": [
+        "HTML", "CSS", "Javascript", "Git", "GitHub"
       ]
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "U-tad",
+    "position": "Profesor asociado",
+    "url": "https://u-tad.com/",
+    "startDate": "2015-07-01",
+    "endDate": "2019-02-01",
+    "summary": "I taught Web development and programming classes at the university for Design degree students. I supported students in the creation of their final projects. I conducted tutorials to help students enhance their technical skills.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "HTML", "CSS", "JavaScript"
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "ESIC",
+    "url": "https://www.esic.edu/grados/grado-comunicacion-y-relaciones-publicas-valencia",
+    "area": "Advertising and Public Relations",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "2011-06-01",
+    "endDate": "2007-09-01",
+    "score": "7.4",
+    "courses": []
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "Premio ÑH10 - Best digital press design",
+    "date": "2013-10-01",
+    "awarder": "Vocento",
+    "summary": ""
   }],
   "certificates": [{
     "name": "Certificate",
@@ -102,88 +115,130 @@
     "url": "https://certificate.com"
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "Desarrollo Frontend",
+    "publisher": "Leanpub",
+    "releaseDate": "2018-10-01",
+    "url": "https://leanpub.com/desarrollo-frontend",
+    "summary": "A book to get started in frontend development. You'll learn the basics of HTML, CSS, and JavaScript. In addition, I'll teach you how to use tools like Git and GitHub, all without prior knowledge."
   }],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Web development", "Frontend", "Responsive design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Version control", "Collaboration", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Version control", "Collaboration", "Source code", "Git"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "AI",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "Machine Learning"
+      ]
+    },
+    {
+      "name": "Mapbox",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "ChartJS",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Cypress",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Stripe",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Advanced",
+      "keywords": [
+        "Database", "noSQL", "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": [
+        "Database", "SQL", "Backend"
       ]
     }
   ],
@@ -200,76 +255,81 @@
   "interests": [{
     "name": "Wildlife",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Sports",
+      "Nutrition",
+      "Parenting",
+      "Motorbikes"
     ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "mDI",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "mDI is a data solution for companies serving domains or websites to increase retention by uncovering upselling opportunities and customer insights within their user base.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "ReactJS",
+        "ChartJS",
+        "SWR"
       ],
-      "url": "https://mars.codes"
+      "url": "https://mdi.marketgoo.com/"
     },
     {
-      "name": "AdventJS",
+      "name": "Badger",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Connect all your SEO data sources in one place—and generate custom reports that save you hours and wow your clients!",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "ReactJS",
+        "ChartJS",
+        "SWR",
+        "AI"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://getbadger.io"
     },
     {
-      "name": "Codember",
+      "name": "Topdelmes.com",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Website to discover the best movies and series by month and year, with reviews created using AI. ",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Astro",
+        "Strapi",
+        "Node",
+        "AI"
       ],
-      "url": "https://codember.dev"
+      "url": "https://topdelmes.com"
     },
     {
-      "name": "codi.link",
+      "name": "Memos.land",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Platform for sharing images and texts among individuals focused on privacy and simplicity.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "ReactJS",
+        "SWR",
+        "Node",
+        "MongoDB",
+        "Stripe"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://memos.land"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Pulse",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Real estate investment opportunity assessment and identification software",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "ReactJS",
+        "Styled Components",
+        "Stripe",
+        "Mapbox"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://www.urbandataanalytics.com/pulse"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Bento Components",
+      "description": "Open source component library for ReactJS.",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "Open source", "ReactJS", "Styled Components"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/urbandataanalytics/bento-components",
+      "github": "https://github.com/urbandataanalytics/bento-components"
     }
   ]
 }
