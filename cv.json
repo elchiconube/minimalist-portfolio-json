@@ -6,7 +6,7 @@
     "email": "oscarbustosgarrido@gmail.com",
     "phone": "+34 649131791",
     "url": "https://oscarbustos.dev",
-    "summary": "With over 12 years of experience as a Web Developer, I currently assist in creating web projects for various companies. I have worked in diverse environments, from accelerating start-up development to leading projects for multinational corporations. I have experience in defining architecture for long-term applications. I enjoy contributing value to design and product teams.",
+    "summary": "With over 12 years of experience as a developer. I have worked in diverse environments, from accelerating start-up development to leading projects for multinational corporations. I have experience in defining architecture for long-term applications. I enjoy contributing value to design and product teams.",
     "location": {
       "address": "Principe de Asturias 6",
       "postalCode": "24660",
@@ -34,7 +34,7 @@
       "url": "https://marketgoo.com/",
       "startDate": "2023-01-09",
       "endDate": null,
-      "summary": "I was responsible for developing new projects for the company. I applied a component-based architecture with which I managed to reduce the development time, thus being able to launch new features quickly. I implemented a testing strategy to improve code quality and reduce errors in production. I supported the design and product team in the creation of new features.",
+      "summary": "I am leading frontend developent on new projects for the company. I applied a component-based architecture with which I managed to reduce the development time, thus being able to launch new features quickly. I implemented a testing strategy to improve code quality and reduce errors in production. I supported the design and product team in the creation of new features. I work with the backend team to define the API requirements. I am responsible for the performance of the application and the user experience. I mentor new developers. I used technologies like ReactJS, Typescript, CSS Modules, Jest, Cypress, and Git.",
       "highlights": [
         "ReactJS", "Git", "GitHub", "CSS modules", "Cypress", "Astro"
       ]
@@ -45,9 +45,9 @@
       "url": "https://www.urbandataanalytics.com/",
       "startDate": "2019-02-01",
       "endDate": "2022-12-15",
-      "summary": "I led a refactor of the company's main product in record time while maintaining the previous one. We migrated from a monolithic architecture to a more flexible and optimized one that improved performance and user experience. I promoted good practices and performance improvements. I increased test coverage and code quality. I created an open-source component library for ReactJS that increased development speed and visual consistency of the application. I accompanied the design and product teams in the creation of new features. I mentored new developers.",
+      "summary": "I led a refactor of the company's main product in record time while maintaining the previous one. We migrated from a monolithic architecture to a more flexible and optimized one that improved performance and user experience. I promoted good practices and performance improvements. I increased test coverage and code quality. I created an open-source component library for ReactJS that increased development speed and visual consistency of the application. I accompanied the design and product teams in the creation of new features. I mentored new developers. I used technologies like ReactJS, Typescript, Styled Components, Jest, Cypress, and Git.",
       "highlights": [
-        "ReactJS", "Next.js", "StyledComponents", "Git", "GitHub", "Jest", "Cypress"
+        "ReactJS",  "Next.js", "StyledComponents", "Git", "GitHub", "Jest", "Cypress"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "position": "Full Stack Developer",
       "startDate": "2015-03-01",
       "endDate": "2019-05-01",
-      "summary": "I developed a knowledge management platform for the company. I implemented a REST API using Strapi to store the contents. I also created a web application to consume and manage the content. I learned to work in an international environment with teams distributed around the world. I improved the quality of the code and the speed of development. I learned to create a complete structure including frontend, backend, and deployment on AWS",
+      "summary": "I developed a knowledge management platform for the company. I implemented a REST API using Strapi to store the contents. I also created a web application to consume and manage the content. I learned to work in an international environment with teams distributed around the world. I improved the quality of the code and the speed of development. I learned to create a complete structure including frontend, backend, and deployment on AWS. I used technologies like ReactJS, Redux, Strapi, StyledComponents, and AWS.",
       "highlights": [
         "ReactJS", "Redux", "Git", "GitHub", "Strapi", "StyledComponents", "AWS"
       ]
@@ -65,7 +65,7 @@
       "position": "Frontend Developer",
       "startDate": "2015-02-01",
       "endDate": "2013-05-01",
-      "summary": "I developed websites for different brands within the group. The main sites had very high traffic, so there were high demands in terms of SEO and loading speed. I learned to work in a high-demand environment where advertising was the main source of revenue.",
+      "summary": "I developed websites for different brands within the group. The main sites had very high traffic, so there were high demands in terms of SEO and loading speed. I learned to work in a high-demand environment where advertising was the main source of revenue. I improved the performance of the sites and the user experience. I used technologies like Vanilla Javascript, HTML5, CSS3, SASS, Webpack, Drupal and Git.",
       "highlights": [
         "Drupal", "HTML", "CSS", "Javascript", "Git", "GitHub"
       ]
@@ -75,7 +75,7 @@
       "position": "Frontend Developer",
       "startDate": "2011-04-01",
       "endDate": "2013-05-01",
-      "summary": "I developed various web applications for different brands within the group. I learned how to implement responsive designs in older browsers. I carried out webapp projects that were used to create applications on iOS and Android. I was awarded a prize for the design of one of the applications.",
+      "summary": "I developed various web applications for different brands within the group. I learned how to implement responsive designs in older browsers. I carried out webapp projects that were used to create applications on iOS and Android. I was awarded a prize for the design of one of the applications. I used technologies like HTML, CSS, Javascript, Git, and GitHub.",
       "highlights": [
         "HTML", "CSS", "Javascript", "Git", "GitHub"
       ]
