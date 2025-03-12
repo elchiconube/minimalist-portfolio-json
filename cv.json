@@ -283,15 +283,21 @@
   }],
   "projects": [
     {
-      "name": "mDI",
+      "name": "Robots.txt",
       "isActive": true,
-      "description": "mDI is a data solution for companies serving domains or websites to increase retention by uncovering upselling opportunities and customer insights within their user base.",
+      "description": "The robots.txt Generator is a powerful yet simple tool designed to help you create and manage your robots.txt file effortlessly. This tool lets you control how search engines, web crawlers, or AI bots interact with your site.",
       "highlights": [
-        "ReactJS",
-        "ChartJS",
-        "SWR"
+        "Open source",
+        "Next.js",
+        "Radix UI"
       ],
-      "url": "https://mdi.marketgoo.com/"
+      "achievements": "This open-source solution was awarded as the second product of the day on Product Hunt, with 344 votes, all without any campaign.",
+      "technologies": [
+        "Next.js",
+        "Radix UI"
+      ],
+      "url": "https://generaterobotstxt.com/",
+      "github": "https://github.com/elchiconube/generate-robots-txt"
     },
     {
       "name": "Badger",
@@ -316,23 +322,6 @@
         "AI"
       ],
       "url": "https://topdelmes.com"
-    },
-    {
-      "name": "Robots.txt",
-      "isActive": true,
-      "description": "The robots.txt Generator is a powerful yet simple tool designed to help you create and manage your robots.txt file effortlessly. This tool lets you control how search engines, web crawlers, or AI bots interact with your site.",
-      "highlights": [
-        "Open source",
-        "Next.js",
-        "Radix UI"
-      ],
-      "achievements": "This open-source solution was awarded as the second product of the day on Product Hunt, with 344 votes, all without any campaign.",
-      "technologies": [
-        "Next.js",
-        "Radix UI"
-      ],
-      "url": "https://generaterobotstxt.com/",
-      "github": "https://github.com/elchiconube/generate-robots-txt"
     },
     {
       "name": "Pulse",
