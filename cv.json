@@ -6,8 +6,8 @@
     "email": "oscarbustosgarrido@gmail.com",
     "phone": "+34 649131791",
     "url": "https://oscarbustos.dev",
-    "summary": "With over 12 years of experience as a developer. I have worked in diverse environments, from accelerating start-up development to leading projects for multinational corporations. I have experience in defining architecture for long-term applications. I enjoy contributing value to design and product teams.",
-    "location": {
+    "summary": "Frontend Developer with over 12 years of experience building scalable and high-quality web applications. I specialize in React, Astro, and Next.js, with a strong focus on performance, component-based architectures, and automated testing (Jest, Cypress). I have led frontend teams, improved developer workflows, and optimized user experiences across various industries. Passionate about functional programming, code quality, and AI-driven solutions.",
+      "location": {
       "address": "Principe de Asturias 6",
       "postalCode": "24660",
       "city": "León",
@@ -29,14 +29,32 @@
   },
   "work": [
     {
+      "name": "FCM Travel",
+      "position": "Senior Frontend Developer",
+      "url": "https://www.fcmtravel.com/",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "FCM Travel is a leading corporate travel management platform trusted by global brands such as P&G and Toyota. The platform is designed to streamline business travel with cutting-edge technology, offering a seamless experience for users while providing valuable insights and strategic solutions. Known for its collaborative approach, FCM combines a talented international team with agile methodologies to deliver a product that meets the evolving needs of modern businesses.",
+      "responsibilities": [
+        "Led a complete restyling of the platform, collaborating with design and product teams to enhance user experience.",
+        "Developed a custom component library with ReactJS and implemented it across the entire platform.",
+        "Worked with Next.js, SASS, and GraphQL, optimizing performance with Server-Side Rendering (SSR).",
+        "Integrated Cypress to ensure high-quality standards through automated testing.",
+        "Collaborated within agile squads, fostering innovation and adaptability in development workflows."
+      ],
+      "technologies": [
+        "ReactJS", "Next.js", "SASS", "GraphQL", "Cypress"
+      ]
+    },
+    {
       "name": "Marketgoo",
       "position": "Senior Frontend Developer",
       "url": "https://marketgoo.com/",
       "startDate": "2023-01-09",
-      "endDate": null,
-      "summary": "I am leading frontend developent on new projects for the company. I applied a component-based architecture with which I managed to reduce the development time, thus being able to launch new features quickly. I implemented a testing strategy to improve code quality and reduce errors in production. I supported the design and product team in the creation of new features. I work with the backend team to define the API requirements. I am responsible for the performance of the application and the user experience. I mentor new developers. I used technologies like ReactJS, Typescript, CSS Modules, Jest, Cypress, and Git.",
+      "endDate": "2024-07-01",
+      "summary": "Led frontend development on new projects, implementing a component-based architecture that reduced development time and improved maintainability. Introduced an automated testing strategy (Jest, Cypress) that significantly decreased production bugs. Collaborated closely with design and product teams to enhance user experiences. Integrated AI-driven features to improve content recommendations. Ensured API consistency and performance optimization. Mentored new developers and advocated for functional programming principles.",
       "highlights": [
-        "ReactJS", "Git", "GitHub", "CSS modules", "Cypress", "Astro"
+        "ReactJS", "Git", "GitHub", "CSS Modules", "Cypress", "Astro"
       ]
     },
     {
@@ -63,8 +81,8 @@
     {
       "name": "Axel Springer",
       "position": "Frontend Developer",
-      "startDate": "2015-02-01",
-      "endDate": "2013-05-01",
+      "startDate": "2013-05-01",
+      "endDate": "2015-02-01",
       "summary": "I developed websites for different brands within the group. The main sites had very high traffic, so there were high demands in terms of SEO and loading speed. I learned to work in a high-demand environment where advertising was the main source of revenue. I improved the performance of the sites and the user experience. I used technologies like Vanilla Javascript, HTML5, CSS3, SASS, Webpack, Drupal and Git.",
       "highlights": [
         "Drupal", "HTML", "CSS", "Javascript", "Git", "GitHub"
@@ -97,8 +115,8 @@
     "url": "https://www.esic.edu/grados/grado-comunicacion-y-relaciones-publicas-valencia",
     "area": "Advertising and Public Relations",
     "studyType": "Bachelor",
-    "startDate": "2011-06-01",
-    "endDate": "2007-09-01",
+    "startDate": "2007-09-01",
+    "endDate": "2011-06-01",
     "score": "7.4",
     "courses": []
   }],
@@ -106,14 +124,9 @@
     "title": "Premio ÑH10 - Best digital press design",
     "date": "2013-10-01",
     "awarder": "Vocento",
-    "summary": ""
+    "summary": "Recognition for the digital redesign of Mujer Hoy, one of the main magazines of Vocento Group"
   }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
+  "certificates": [],
   "publications": [{
     "name": "Desarrollo Frontend",
     "publisher": "Leanpub",
@@ -134,6 +147,13 @@
       "level": "Master",
       "keywords": [
         "Web development", "Frontend", "Responsive design"
+      ]
+    },
+    {
+      "name": "Functional Programming",
+      "level": "Advanced",
+      "keywords": [
+        "Immutability", "Pure Functions", "Declarative Programming", "JavaScript", "React"
       ]
     },
     {
@@ -253,7 +273,7 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Personal",
     "keywords": [
       "Sports",
       "Nutrition",
@@ -288,7 +308,7 @@
     {
       "name": "Topdelmes.com",
       "isActive": true,
-      "description": "Website to discover the best movies and series by month and year, with reviews created using AI. ",
+      "description": "Website to discover the best movies and series by month and year, with reviews generated using AI models. Optimized for fast content delivery and excellent user experience using Astro.",
       "highlights": [
         "Astro",
         "Strapi",
@@ -298,17 +318,21 @@
       "url": "https://topdelmes.com"
     },
     {
-      "name": "Memos.land",
+      "name": "Robots.txt",
       "isActive": true,
-      "description": "Platform for sharing images and texts among individuals focused on privacy and simplicity.",
+      "description": "The robots.txt Generator is a powerful yet simple tool designed to help you create and manage your robots.txt file effortlessly. This tool lets you control how search engines, web crawlers, or AI bots interact with your site.",
       "highlights": [
-        "ReactJS",
-        "SWR",
-        "Node",
-        "MongoDB",
-        "Stripe"
+        "Open source",
+        "Next.js",
+        "Radix UI"
       ],
-      "url": "https://memos.land"
+      "achievements": "This open-source solution was awarded as the second product of the day on Product Hunt, with 344 votes, all without any campaign.",
+      "technologies": [
+        "Next.js",
+        "Radix UI"
+      ],
+      "url": "https://generaterobotstxt.com/",
+      "github": "https://github.com/elchiconube/generate-robots-txt"
     },
     {
       "name": "Pulse",
